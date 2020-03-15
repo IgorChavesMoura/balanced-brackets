@@ -8,7 +8,7 @@
 ### How to build and run the app on UNIX based OS (MacOS, Linux):
 	>./build_and_run_docker.sh 
 
-### How to run using Windows:
+### How to build using Windows:
 	> docker build -t balanced-brackets .
 
 ### How to run using Windows:
